@@ -1,6 +1,6 @@
 ### Hola, soy Tingting 👋
 
-Actuarial Data Scientist junior. Estudio el **Máster en Ciencias Actuariales y Financieras** (Universitat de València)
+Actuarial Data Scientist. Estudio el **Máster en Ciencias Actuariales y Financieras** (Universitat de València)
 y soy **graduada en Ciencia de Datos** (UPV). Me interesa aplicar Python, R, SQL y *machine learning* a la
 tarificación, las reservas y el riesgo en seguros.
 

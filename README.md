@@ -1,18 +1,18 @@
-### Hola, soy Tingting 👋
+### Tingting Wu
 
-Actuarial Data Scientist. Estudio el **Máster en Ciencias Actuariales y Financieras** (Universitat de València)
-y soy **graduada en Ciencia de Datos** (UPV). Me interesa aplicar Python, R, SQL y *machine learning* a la
-tarificación, las reservas y el riesgo en seguros.
+Estudio el Máster en Ciencias Actuariales y Financieras en la Universitat de València y soy graduada en Ciencia
+de Datos por la UPV. Aquí subo proyectos en los que aplico Python, R y SQL a la tarificación, las reservas y el
+riesgo en seguros.
 
-**Proyectos destacados**
+Proyectos:
 
-| Proyecto | Qué hace | Herramientas |
-|---|---|---|
-| [IFRS 17: modelo general frente al régimen anterior](https://github.com/TWU21/ifrs17-gmm-vs-ifrs4) | CSM, ajuste por riesgo, contratos onerosos y nueva cuenta de resultados, comparados con IFRS 4 y Solvencia II | Python, NumPy, unittest |
-| [Tarificación de RC de automóviles](https://github.com/TWU21/motor-pricing-glm-vs-gbm) | Prima pura de 413.169 pólizas reales: GLM frente a gradient boosting | Python, SQL, statsmodels, scikit-learn |
-| [Reservas de siniestros](https://github.com/TWU21/claims-reserving-chainladder) | Chain Ladder, Mack y bootstrap ODP programados desde cero y validados con tests | Python, NumPy, unittest |
-| [Rentas vitalicias y longevidad](https://github.com/TWU21/life-annuities-longevity-risk) | Rentas con tablas del INE, choques de Solvencia II y Monte Carlo | Python, SciPy |
+- [ifrs17-gmm-vs-ifrs4](https://github.com/TWU21/ifrs17-gmm-vs-ifrs4): modelo general de IFRS 17 (flujos de
+  cumplimiento, ajuste por riesgo y CSM) para un seguro de vida riesgo, comparado con IFRS 4 y Solvencia II.
+- [motor-pricing-glm-vs-gbm](https://github.com/TWU21/motor-pricing-glm-vs-gbm): prima pura de una cartera de
+  413.169 pólizas de autos con GLM y gradient boosting.
+- [claims-reserving-chainladder](https://github.com/TWU21/claims-reserving-chainladder): Chain Ladder, Mack y
+  bootstrap programados desde cero.
+- [life-annuities-longevity-risk](https://github.com/TWU21/life-annuities-longevity-risk): rentas vitalicias
+  con tablas del INE y choques de longevidad de Solvencia II.
 
-**Herramientas:** Python · R · SQL · Excel/VBA · Power BI · Tableau · SAS · LaTeX
-
-📫 [LinkedIn](https://www.linkedin.com/in/tingting-wu-8b9320243) · Valencia, España
+[LinkedIn](https://www.linkedin.com/in/tingting-wu-8b9320243) · Valencia
